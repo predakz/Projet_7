@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/a0d360fbbf2d4203a9928adb7b80e3d7/artifacts
+end_time: 1689625972572
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0d360fbbf2d4203a9928adb7b80e3d7
+run_name: bustling-kit-439
+run_uuid: a0d360fbbf2d4203a9928adb7b80e3d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689625972505
+status: 3
+tags: []
+user_id: Paul

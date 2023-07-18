@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/6c348cce690d413fa284609217695cee/artifacts
+end_time: 1688923770374
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c348cce690d413fa284609217695cee
+run_name: capricious-gnat-623
+run_uuid: 6c348cce690d413fa284609217695cee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688923770304
+status: 3
+tags: []
+user_id: Paul

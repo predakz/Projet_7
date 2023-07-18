@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/f41b66818e4147d794746ceb3d3a8dd5/artifacts
+end_time: 1688409032335
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f41b66818e4147d794746ceb3d3a8dd5
+run_name: fearless-dolphin-69
+run_uuid: f41b66818e4147d794746ceb3d3a8dd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688409007451
+status: 4
+tags: []
+user_id: Paul

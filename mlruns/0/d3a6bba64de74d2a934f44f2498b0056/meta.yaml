@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/d3a6bba64de74d2a934f44f2498b0056/artifacts
+end_time: 1687968800165
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d3a6bba64de74d2a934f44f2498b0056
+run_name: stylish-skunk-297
+run_uuid: d3a6bba64de74d2a934f44f2498b0056
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687967890329
+status: 3
+tags: []
+user_id: Paul

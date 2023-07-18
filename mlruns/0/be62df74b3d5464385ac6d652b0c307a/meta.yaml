@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/be62df74b3d5464385ac6d652b0c307a/artifacts
+end_time: 1688409244145
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be62df74b3d5464385ac6d652b0c307a
+run_name: likeable-shrew-437
+run_uuid: be62df74b3d5464385ac6d652b0c307a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688409215097
+status: 4
+tags: []
+user_id: Paul

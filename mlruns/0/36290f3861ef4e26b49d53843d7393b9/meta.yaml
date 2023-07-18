@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/36290f3861ef4e26b49d53843d7393b9/artifacts
+end_time: 1688587879550
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36290f3861ef4e26b49d53843d7393b9
+run_name: unequaled-auk-242
+run_uuid: 36290f3861ef4e26b49d53843d7393b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688587879474
+status: 3
+tags: []
+user_id: Paul

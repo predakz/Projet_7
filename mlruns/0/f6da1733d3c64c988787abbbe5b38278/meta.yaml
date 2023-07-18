@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/f6da1733d3c64c988787abbbe5b38278/artifacts
+end_time: 1688932833215
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6da1733d3c64c988787abbbe5b38278
+run_name: amusing-smelt-697
+run_uuid: f6da1733d3c64c988787abbbe5b38278
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688924386030
+status: 3
+tags: []
+user_id: Paul

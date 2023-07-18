@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/918e423005b64a6da56d1bb380a32a11/artifacts
+end_time: 1688053972586
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 918e423005b64a6da56d1bb380a32a11
+run_name: resilient-fox-603
+run_uuid: 918e423005b64a6da56d1bb380a32a11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688051242021
+status: 3
+tags: []
+user_id: Paul

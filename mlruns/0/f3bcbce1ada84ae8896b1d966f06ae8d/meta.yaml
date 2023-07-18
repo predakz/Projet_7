@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/f3bcbce1ada84ae8896b1d966f06ae8d/artifacts
+end_time: 1687967889820
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f3bcbce1ada84ae8896b1d966f06ae8d
+run_name: calm-asp-218
+run_uuid: f3bcbce1ada84ae8896b1d966f06ae8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687967883917
+status: 3
+tags: []
+user_id: Paul

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/3e86e80ee3314cf0be5421baaa5ffb8c/artifacts
+end_time: 1689625972339
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3e86e80ee3314cf0be5421baaa5ffb8c
+run_name: colorful-bee-731
+run_uuid: 3e86e80ee3314cf0be5421baaa5ffb8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689617783328
+status: 3
+tags: []
+user_id: Paul

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/0f4f948baf96422184a0e799e0a325a5/artifacts
+end_time: 1687970081744
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0f4f948baf96422184a0e799e0a325a5
+run_name: gentle-sponge-590
+run_uuid: 0f4f948baf96422184a0e799e0a325a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687970081657
+status: 3
+tags: []
+user_id: Paul

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/537330aa7ae04be29483b5320ef24a29/artifacts
+end_time: 1688996343856
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 537330aa7ae04be29483b5320ef24a29
+run_name: burly-panda-713
+run_uuid: 537330aa7ae04be29483b5320ef24a29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688996343807
+status: 3
+tags: []
+user_id: Paul

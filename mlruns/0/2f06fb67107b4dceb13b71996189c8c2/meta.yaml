@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/2f06fb67107b4dceb13b71996189c8c2/artifacts
+end_time: 1687968800476
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f06fb67107b4dceb13b71996189c8c2
+run_name: stately-bee-210
+run_uuid: 2f06fb67107b4dceb13b71996189c8c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687968800385
+status: 3
+tags: []
+user_id: Paul

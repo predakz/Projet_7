@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/cb95a6c505ea4936beef6bd633dc252c/artifacts
+end_time: 1688384331620
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb95a6c505ea4936beef6bd633dc252c
+run_name: secretive-colt-679
+run_uuid: cb95a6c505ea4936beef6bd633dc252c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688384331553
+status: 3
+tags: []
+user_id: Paul

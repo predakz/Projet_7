@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/f144278ad9894c278eca7714c80f558e/artifacts
+end_time: 1688046623113
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f144278ad9894c278eca7714c80f558e
+run_name: ambitious-hen-210
+run_uuid: f144278ad9894c278eca7714c80f558e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688046616442
+status: 3
+tags: []
+user_id: Paul

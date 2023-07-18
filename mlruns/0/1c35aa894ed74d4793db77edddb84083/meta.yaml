@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/1c35aa894ed74d4793db77edddb84083/artifacts
+end_time: 1688051241855
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1c35aa894ed74d4793db77edddb84083
+run_name: rumbling-finch-495
+run_uuid: 1c35aa894ed74d4793db77edddb84083
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688050416785
+status: 3
+tags: []
+user_id: Paul

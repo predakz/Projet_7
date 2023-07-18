@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/a7490ed105174c089c922bfdf882d6ed/artifacts
+end_time: 1689617782943
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7490ed105174c089c922bfdf882d6ed
+run_name: bustling-crane-255
+run_uuid: a7490ed105174c089c922bfdf882d6ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689616955674
+status: 3
+tags: []
+user_id: Paul

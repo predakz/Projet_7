@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/1a67a218b56944d98dd3910d4a676fdc/artifacts
+end_time: 1688988644437
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1a67a218b56944d98dd3910d4a676fdc
+run_name: worried-sheep-657
+run_uuid: 1a67a218b56944d98dd3910d4a676fdc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688988638673
+status: 3
+tags: []
+user_id: Paul

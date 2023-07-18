@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/55020ee4a03648d78856451dc234dc76/artifacts
+end_time: 1688384331370
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 55020ee4a03648d78856451dc234dc76
+run_name: powerful-mink-540
+run_uuid: 55020ee4a03648d78856451dc234dc76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688383490302
+status: 3
+tags: []
+user_id: Paul

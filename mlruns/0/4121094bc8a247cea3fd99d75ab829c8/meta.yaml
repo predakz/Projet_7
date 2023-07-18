@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/4121094bc8a247cea3fd99d75ab829c8/artifacts
+end_time: 1689616955368
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4121094bc8a247cea3fd99d75ab829c8
+run_name: exultant-rat-654
+run_uuid: 4121094bc8a247cea3fd99d75ab829c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689616095123
+status: 3
+tags: []
+user_id: Paul

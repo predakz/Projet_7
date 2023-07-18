@@ -1,0 +1,32 @@
+artifact_path: DummyClassifier
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.2.1
+mlflow_version: 2.4.1
+model_uuid: ed539a598c3f47f7a05cac8c089b53b2
+run_id: 871a0810abec4626a6a5adc61c428a3c
+signature:
+  inputs: '[{"type": "integer", "name": "NAME_CONTRACT_TYPE"}, {"type": "integer",
+    "name": "CODE_GENDER"}, {"type": "integer", "name": "FLAG_OWN_CAR"}, {"type":
+    "integer", "name": "FLAG_OWN_REALTY"}, {"type": "double", "name": "AMT_INCOME_TOTAL"},
+    {"type": "double", "name": "AMT_CREDIT"}, {"type": "integer", "name": "NAME_INCOME_TYPE"},
+    {"type": "integer", "name": "NAME_EDUCATION_TYPE"}, {"type": "integer", "name":
+    "NAME_FAMILY_STATUS"}, {"type": "integer", "name": "NAME_HOUSING_TYPE"}, {"type":
+    "long", "name": "DAYS_BIRTH"}, {"type": "double", "name": "DAYS_EMPLOYED"}, {"type":
+    "double", "name": "FLAG_MOBIL"}, {"type": "double", "name": "FLAG_EMAIL"}, {"type":
+    "double", "name": "CNT_FAM_MEMBERS"}, {"type": "integer", "name": "ORGANIZATION_TYPE"},
+    {"type": "double", "name": "INCOME_CREDIT_RATE"}, {"type": "double", "name": "ANNUITY_INCOME_RATE"},
+    {"type": "double", "name": "PAYMENT_RATE"}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+utc_time_created: '2023-07-09 15:12:06.223232'

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/eede49d4fcb6468786f359c59caaeafb/artifacts
+end_time: 1687879858810
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eede49d4fcb6468786f359c59caaeafb
+run_name: bemused-goose-410
+run_uuid: eede49d4fcb6468786f359c59caaeafb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687879858723
+status: 4
+tags: []
+user_id: Paul

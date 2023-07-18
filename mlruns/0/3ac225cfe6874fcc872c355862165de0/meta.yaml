@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/3ac225cfe6874fcc872c355862165de0/artifacts
+end_time: 1687970081245
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ac225cfe6874fcc872c355862165de0
+run_name: dashing-hare-605
+run_uuid: 3ac225cfe6874fcc872c355862165de0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687969615255
+status: 3
+tags: []
+user_id: Paul
