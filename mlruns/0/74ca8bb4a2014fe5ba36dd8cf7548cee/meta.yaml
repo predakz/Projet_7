@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/74ca8bb4a2014fe5ba36dd8cf7548cee/artifacts
+deleted_time: 1690469620868
 end_time: 1688405109466
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 74ca8bb4a2014fe5ba36dd8cf7548cee
 run_name: exultant-stoat-216
 run_uuid: 74ca8bb4a2014fe5ba36dd8cf7548cee

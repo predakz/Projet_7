@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/6e6480eedfff49379d60f9f499dce180/artifacts
+deleted_time: 1690469620834
 end_time: 1687987130374
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 6e6480eedfff49379d60f9f499dce180
 run_name: gentle-croc-831
 run_uuid: 6e6480eedfff49379d60f9f499dce180

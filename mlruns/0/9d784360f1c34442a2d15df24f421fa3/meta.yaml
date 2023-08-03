@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/9d784360f1c34442a2d15df24f421fa3/artifacts
+deleted_time: 1690469620815
 end_time: 1687966392205
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 9d784360f1c34442a2d15df24f421fa3
 run_name: glamorous-crane-353
 run_uuid: 9d784360f1c34442a2d15df24f421fa3

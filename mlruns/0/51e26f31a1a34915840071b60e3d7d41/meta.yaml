@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/51e26f31a1a34915840071b60e3d7d41/artifacts
+deleted_time: 1690469620888
 end_time: 1688570186723
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 51e26f31a1a34915840071b60e3d7d41
 run_name: flawless-colt-425
 run_uuid: 51e26f31a1a34915840071b60e3d7d41

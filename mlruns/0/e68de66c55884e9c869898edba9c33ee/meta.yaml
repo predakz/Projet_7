@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/e68de66c55884e9c869898edba9c33ee/artifacts
+deleted_time: 1690469620887
 end_time: 1688571001356
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: e68de66c55884e9c869898edba9c33ee
 run_name: abrasive-grouse-292
 run_uuid: e68de66c55884e9c869898edba9c33ee

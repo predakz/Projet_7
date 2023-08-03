@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/918e423005b64a6da56d1bb380a32a11/artifacts
+deleted_time: 1690469620837
 end_time: 1688053972586
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 918e423005b64a6da56d1bb380a32a11
 run_name: resilient-fox-603
 run_uuid: 918e423005b64a6da56d1bb380a32a11

@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/035b9c93330242088280e684e770f809/artifacts
+deleted_time: 1690469620796
 end_time: 1687967350014
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 035b9c93330242088280e684e770f809
 run_name: useful-lynx-516
 run_uuid: 035b9c93330242088280e684e770f809

@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/408680a4946a4803b5da9de332807791/artifacts
+deleted_time: 1690469620901
 end_time: 1688574549690
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 408680a4946a4803b5da9de332807791
 run_name: auspicious-rat-89
 run_uuid: 408680a4946a4803b5da9de332807791

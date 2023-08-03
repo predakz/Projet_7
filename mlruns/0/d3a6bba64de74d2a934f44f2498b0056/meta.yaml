@@ -4,7 +4,7 @@ entry_point_name: ''
 experiment_id: '0'
 lifecycle_stage: active
 run_id: d3a6bba64de74d2a934f44f2498b0056
-run_name: stylish-skunk-297
+run_name: LogReg_test
 run_uuid: d3a6bba64de74d2a934f44f2498b0056
 source_name: ''
 source_type: 4

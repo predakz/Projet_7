@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/6cb900ed8b0b4e62abf86eccb4d0b5bc/artifacts
+deleted_time: 1690469620833
 end_time: 1688050411246
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 6cb900ed8b0b4e62abf86eccb4d0b5bc
 run_name: selective-skink-331
 run_uuid: 6cb900ed8b0b4e62abf86eccb4d0b5bc

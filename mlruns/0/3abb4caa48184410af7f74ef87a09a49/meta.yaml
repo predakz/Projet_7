@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/3abb4caa48184410af7f74ef87a09a49/artifacts
+deleted_time: 1690469962594
 end_time: 1688911745666
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 3abb4caa48184410af7f74ef87a09a49
 run_name: spiffy-crow-249
 run_uuid: 3abb4caa48184410af7f74ef87a09a49

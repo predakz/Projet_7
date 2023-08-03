@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/11dfa8f6eb27457a98ded6af487c7ef3/artifacts
+deleted_time: 1690469620852
 end_time: 1688050416678
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 11dfa8f6eb27457a98ded6af487c7ef3
 run_name: omniscient-shoat-551
 run_uuid: 11dfa8f6eb27457a98ded6af487c7ef3

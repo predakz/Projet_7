@@ -4,7 +4,7 @@ entry_point_name: ''
 experiment_id: '0'
 lifecycle_stage: active
 run_id: 06f548ae6d9b479c8e2d637ced8b0647
-run_name: vaunted-gnu-602
+run_name: LogReg_fbeta
 run_uuid: 06f548ae6d9b479c8e2d637ced8b0647
 source_name: ''
 source_type: 4

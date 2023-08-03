@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/3ddf277dfbfd45c2ba31205f6d9183b8/artifacts
+deleted_time: 1690470465708
 end_time: 1688996343623
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 3ddf277dfbfd45c2ba31205f6d9183b8
 run_name: luxuriant-cat-92
 run_uuid: 3ddf277dfbfd45c2ba31205f6d9183b8

@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/c1845c53f1b8423a89b3de2627bc1165/artifacts
+deleted_time: 1690469962547
 end_time: 1687966391782
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: c1845c53f1b8423a89b3de2627bc1165
 run_name: tasteful-swan-908
 run_uuid: c1845c53f1b8423a89b3de2627bc1165

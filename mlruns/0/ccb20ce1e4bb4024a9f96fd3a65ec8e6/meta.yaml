@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/ccb20ce1e4bb4024a9f96fd3a65ec8e6/artifacts
+deleted_time: 1690469962589
 end_time: 1688383489948
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: ccb20ce1e4bb4024a9f96fd3a65ec8e6
 run_name: orderly-finch-97
 run_uuid: ccb20ce1e4bb4024a9f96fd3a65ec8e6

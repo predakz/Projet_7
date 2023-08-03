@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/519e45f01e0c459faade49c800616632/artifacts
+deleted_time: 1690469620886
 end_time: 1688569342588
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 519e45f01e0c459faade49c800616632
 run_name: bold-chimp-702
 run_uuid: 519e45f01e0c459faade49c800616632

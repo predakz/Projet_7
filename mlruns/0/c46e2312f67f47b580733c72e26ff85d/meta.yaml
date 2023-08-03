@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/c46e2312f67f47b580733c72e26ff85d/artifacts
+deleted_time: 1690469620851
 end_time: 1688383490246
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: c46e2312f67f47b580733c72e26ff85d
 run_name: angry-horse-673
 run_uuid: c46e2312f67f47b580733c72e26ff85d

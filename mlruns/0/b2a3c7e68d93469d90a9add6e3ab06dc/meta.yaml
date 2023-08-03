@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/b2a3c7e68d93469d90a9add6e3ab06dc/artifacts
+deleted_time: 1690469620961
 end_time: 1689616095049
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: b2a3c7e68d93469d90a9add6e3ab06dc
 run_name: auspicious-hen-482
 run_uuid: b2a3c7e68d93469d90a9add6e3ab06dc

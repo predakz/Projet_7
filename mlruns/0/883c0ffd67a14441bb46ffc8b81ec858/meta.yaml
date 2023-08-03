@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/883c0ffd67a14441bb46ffc8b81ec858/artifacts
+deleted_time: 1690469962569
 end_time: 1688050416362
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 883c0ffd67a14441bb46ffc8b81ec858
 run_name: respected-gnat-674
 run_uuid: 883c0ffd67a14441bb46ffc8b81ec858

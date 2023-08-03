@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/99f26cb8309b41ada1edfebcbd52bb8a/artifacts
+deleted_time: 1690469620960
 end_time: 1689616955618
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 99f26cb8309b41ada1edfebcbd52bb8a
 run_name: bright-grub-473
 run_uuid: 99f26cb8309b41ada1edfebcbd52bb8a

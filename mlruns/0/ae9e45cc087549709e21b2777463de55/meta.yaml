@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/ae9e45cc087549709e21b2777463de55/artifacts
+deleted_time: 1690469620928
 end_time: 1688915531819
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: ae9e45cc087549709e21b2777463de55
 run_name: sincere-mole-734
 run_uuid: ae9e45cc087549709e21b2777463de55

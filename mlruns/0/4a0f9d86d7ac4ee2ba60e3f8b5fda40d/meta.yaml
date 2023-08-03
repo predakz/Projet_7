@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/4a0f9d86d7ac4ee2ba60e3f8b5fda40d/artifacts
+deleted_time: 1690470465700
 end_time: 1688923770136
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 4a0f9d86d7ac4ee2ba60e3f8b5fda40d
 run_name: sedate-tern-141
 run_uuid: 4a0f9d86d7ac4ee2ba60e3f8b5fda40d

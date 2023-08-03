@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/a364c5c1db484808b88c4fac5305fb59/artifacts
+deleted_time: 1690469620904
 end_time: 1688588746163
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: a364c5c1db484808b88c4fac5305fb59
 run_name: defiant-goose-268
 run_uuid: a364c5c1db484808b88c4fac5305fb59

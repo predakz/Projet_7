@@ -4,7 +4,7 @@ entry_point_name: ''
 experiment_id: '0'
 lifecycle_stage: active
 run_id: 3ac225cfe6874fcc872c355862165de0
-run_name: dashing-hare-605
+run_name: LogReg_short
 run_uuid: 3ac225cfe6874fcc872c355862165de0
 source_name: ''
 source_type: 4

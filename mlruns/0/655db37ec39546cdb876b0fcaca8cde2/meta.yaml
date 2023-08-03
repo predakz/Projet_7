@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/655db37ec39546cdb876b0fcaca8cde2/artifacts
+deleted_time: 1690469962613
 end_time: 1689616094752
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 655db37ec39546cdb876b0fcaca8cde2
 run_name: secretive-mouse-890
 run_uuid: 655db37ec39546cdb876b0fcaca8cde2

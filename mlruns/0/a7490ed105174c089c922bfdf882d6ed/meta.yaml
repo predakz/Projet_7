@@ -4,7 +4,7 @@ entry_point_name: ''
 experiment_id: '0'
 lifecycle_stage: active
 run_id: a7490ed105174c089c922bfdf882d6ed
-run_name: bustling-crane-255
+run_name: LogReg_fbeta_3
 run_uuid: a7490ed105174c089c922bfdf882d6ed
 source_name: ''
 source_type: 4

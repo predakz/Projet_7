@@ -4,7 +4,7 @@ entry_point_name: ''
 experiment_id: '0'
 lifecycle_stage: active
 run_id: 5307a7f371864ee4a9c093412b7def5a
-run_name: respected-robin-110
+run_name: DummyClassifier
 run_uuid: 5307a7f371864ee4a9c093412b7def5a
 source_name: ''
 source_type: 4

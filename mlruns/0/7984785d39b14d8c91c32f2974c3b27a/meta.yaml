@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/7984785d39b14d8c91c32f2974c3b27a/artifacts
+deleted_time: 1690469620963
 end_time: 1689617783273
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 7984785d39b14d8c91c32f2974c3b27a
 run_name: kindly-vole-192
 run_uuid: 7984785d39b14d8c91c32f2974c3b27a

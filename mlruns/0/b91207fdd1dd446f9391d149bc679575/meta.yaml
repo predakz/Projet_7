@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/b91207fdd1dd446f9391d149bc679575/artifacts
+deleted_time: 1690469620945
 end_time: 1688924385859
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: b91207fdd1dd446f9391d149bc679575
 run_name: stylish-owl-670
 run_uuid: b91207fdd1dd446f9391d149bc679575

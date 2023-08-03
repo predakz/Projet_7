@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/6396d03ccf6143a0afd3576d87c50303/artifacts
+deleted_time: 1690470390061
 end_time: 1688589587926
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 6396d03ccf6143a0afd3576d87c50303
 run_name: grandiose-kite-868
 run_uuid: 6396d03ccf6143a0afd3576d87c50303

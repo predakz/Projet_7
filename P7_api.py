@@ -8,45 +8,58 @@ Created on Sun Jul  9 22:46:47 2023
 from flask import Flask, jsonify, request
 import pandas as pd
 import dill as pickle
-import numpy as np
 
 
 app = Flask(__name__)
 
-@app.route('/hello', methods=['GET'])
-def helloworld():
-    if(request.method == 'GET'):
-        num = request.args.get('number')
-        data = {"data": "Hello World",
-                "number": num}
-        return jsonify(data)
+def check_data(data):
+    if len(data)==251845:
+        print('Données chargées avec succès')
+        return 1
+    else:
+        print("Problème dans les données")
+        return 0
 
+# Function returning a prediction based on a customer ID
 @app.route('/predict', methods=['GET'])
 def predict():
+    # Reading the customer ID in the request
     username = int(request.args.get('customer'))
+    # Probability threshold over whch a customer is considered as a good one
     threshold = 0.5757575757575758
-    data = pd.read_csv('C:/Users/Paul/Documents/Cours Data Scientist OC/Projet 7/data/cleaned_data.csv', index_col=0)
-    print(data.index)
-    list_features = pickle.load(open('Pickles/features.pkl', 'rb'))  
-    model = pickle.load(open('Pickles/randfor.pkl', 'rb')) # load trained model
-    transformers = pickle.load(open('Pickles/transformers.pkl', 'rb')) #load transformers
-    list_transformers = [i for i in transformers]  #list of transformers names (columns to be transformed)
+    # Importing data
+    data = pd.read_csv('cleaned_data.csv', index_col=0)
+    check = check_data(data)
+    list_features = pickle.load(open('Pickles/features.pkl', 'rb')) # Features used
+    model = pickle.load(open('Pickles/randfor.pkl', 'rb')) # Trained model (Random Forests)
+    transformers = pickle.load(open('Pickles/transformers.pkl', 'rb')) # Transformations to apply on data
+    list_transformers = [i for i in transformers]  # as a list (1 element = 1 feature)
     explainer = pickle.load(open('Pickles/explainer.pkl', 'rb')) #load lime explainer
-    distributions = pickle.load(open('Pickles/distributions.pkl', 'rb'))
-    print('Verifying ID: '+str(username))
+    distributions = pickle.load(open('Pickles/distributions.pkl', 'rb')) # Distributions in different features for the explainer
+    print('Verification ID: '+str(username))
     if username not in data.index:
+        # Raise an error if the ID is unknown
         return {
-            'Status': 'Error',
-            'Message': 'Error: Unknown ID'
+            'Statut': 'Erreur',
+            'Message': 'Erreur: ID inconnu'
+        }
+    elif check == 0:
+        return {
+            'Statut': 'Erreur',
+            'Message': 'Problème dans les données'
         }
     else:
+        # Loading data for the customer whose ID has been entered
         data_user = pd.DataFrame(data.loc[[username]])
         data_user = data_user.drop('TARGET', axis=1)
+        # Applying the right transformations on data
         for i in list_transformers:
             data_user[i] = transformers[i].transform(data_user[i])
+        # Calculating the customer's score and generating the prediction according to this score
         proba = model.predict_proba(data_user.values.reshape(1,-1))[0][1]
         prediction = 1 if proba > threshold else 0
         score = round(float(proba), 3)
+        # Generating the explainer in terms of 6 key features
         expl_details = explainer.explain_instance(
             data_user.values.reshape(-1),
             model.predict_proba,
@@ -56,22 +69,21 @@ def predict():
         names_main_features = []
         for i in expl_details_map['Feature_idx']:
             names_main_features.append(list_features['all_features'][i])
-
+        # Getting the distributions for these features in order to plot them, giving visual interpretation
         feat_to_plot = [i for i in distributions if i in names_main_features]
-
         distributions_to_plot = {}
         for i in feat_to_plot:
             distributions_to_plot[i] = distributions[i]
-        return {
-                'Status': 'Success',
-                'Prediction': int(prediction),
+        return jsonify({
+                'Statut': 'Succès',
+                'Prédiction': int(prediction),
                 'Score': score,
-                'Threshold': round(threshold, 3),
-                'User info': data_user.to_dict(),
+                'Seuil': round(threshold, 3),
+                'Infos utilisateur': data_user.to_dict(),
                 'Explainer map': expl_details_map.to_dict('list'),
                 'Explainer list': expl_details_list,
                 'Distributions': distributions_to_plot
-            }
+            })
 
 
 if __name__ == '__main__':

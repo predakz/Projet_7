@@ -4,7 +4,7 @@ entry_point_name: ''
 experiment_id: '0'
 lifecycle_stage: active
 run_id: f75cb51dbdcd4042ba052f630bf951d1
-run_name: salty-mule-932
+run_name: LogReg_fbeta_2
 run_uuid: f75cb51dbdcd4042ba052f630bf951d1
 source_name: ''
 source_type: 4

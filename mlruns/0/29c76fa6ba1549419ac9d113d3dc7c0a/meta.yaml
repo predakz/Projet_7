@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/29c76fa6ba1549419ac9d113d3dc7c0a/artifacts
+deleted_time: 1690469962614
 end_time: 1688924385526
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 29c76fa6ba1549419ac9d113d3dc7c0a
 run_name: valuable-swan-793
 run_uuid: 29c76fa6ba1549419ac9d113d3dc7c0a

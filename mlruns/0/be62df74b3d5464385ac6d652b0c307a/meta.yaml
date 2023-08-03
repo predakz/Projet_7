@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/be62df74b3d5464385ac6d652b0c307a/artifacts
+deleted_time: 1690469620869
 end_time: 1688409244145
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: be62df74b3d5464385ac6d652b0c307a
 run_name: likeable-shrew-437
 run_uuid: be62df74b3d5464385ac6d652b0c307a

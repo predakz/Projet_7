@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/9703b084547c4660aee1bc13ab8cf345/artifacts
+deleted_time: 1690469962544
 end_time: 1687880647576
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 9703b084547c4660aee1bc13ab8cf345
 run_name: mercurial-dog-157
 run_uuid: 9703b084547c4660aee1bc13ab8cf345

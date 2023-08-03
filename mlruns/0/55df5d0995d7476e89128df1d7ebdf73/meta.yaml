@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/55df5d0995d7476e89128df1d7ebdf73/artifacts
+deleted_time: 1690470465692
 end_time: 1688597953657
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 55df5d0995d7476e89128df1d7ebdf73
 run_name: calm-panda-400
 run_uuid: 55df5d0995d7476e89128df1d7ebdf73

@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/23a3bb174eea453ab51fba554ada7509/artifacts
+deleted_time: 1690469962568
 end_time: 1688569342385
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 23a3bb174eea453ab51fba554ada7509
 run_name: gifted-shoat-415
 run_uuid: 23a3bb174eea453ab51fba554ada7509

@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/871a0810abec4626a6a5adc61c428a3c/artifacts
+deleted_time: 1690469962596
 end_time: 1688915531488
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 871a0810abec4626a6a5adc61c428a3c
 run_name: stately-worm-304
 run_uuid: 871a0810abec4626a6a5adc61c428a3c

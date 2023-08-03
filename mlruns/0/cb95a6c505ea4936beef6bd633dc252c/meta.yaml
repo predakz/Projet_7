@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/cb95a6c505ea4936beef6bd633dc252c/artifacts
+deleted_time: 1690469620851
 end_time: 1688384331620
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: cb95a6c505ea4936beef6bd633dc252c
 run_name: secretive-colt-679
 run_uuid: cb95a6c505ea4936beef6bd633dc252c

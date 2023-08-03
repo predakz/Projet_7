@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/c3d0f05698724f08a417aac1724fe7f3/artifacts
+deleted_time: 1690469620834
 end_time: 1687972196361
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: c3d0f05698724f08a417aac1724fe7f3
 run_name: trusting-crow-192
 run_uuid: c3d0f05698724f08a417aac1724fe7f3

@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/3f15ab454f3d4f079a89e31a9bf326f9/artifacts
+deleted_time: 1690469620853
 end_time: 1688403641232
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 3f15ab454f3d4f079a89e31a9bf326f9
 run_name: rare-jay-996
 run_uuid: 3f15ab454f3d4f079a89e31a9bf326f9

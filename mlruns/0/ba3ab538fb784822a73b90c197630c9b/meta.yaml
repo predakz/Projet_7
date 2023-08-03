@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/ba3ab538fb784822a73b90c197630c9b/artifacts
+deleted_time: 1690470273213
 end_time: 1687987130124
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: ba3ab538fb784822a73b90c197630c9b
 run_name: nebulous-whale-763
 run_uuid: ba3ab538fb784822a73b90c197630c9b

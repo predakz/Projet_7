@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/7e9ee8754c374142b9d56c2499641315/artifacts
+deleted_time: 1690469620797
 end_time: 1687966384744
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 7e9ee8754c374142b9d56c2499641315
 run_name: casual-pig-923
 run_uuid: 7e9ee8754c374142b9d56c2499641315

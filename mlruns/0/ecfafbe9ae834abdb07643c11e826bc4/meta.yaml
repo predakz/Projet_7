@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/ecfafbe9ae834abdb07643c11e826bc4/artifacts
+deleted_time: 1690470550922
 end_time: 1688588745739
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: ecfafbe9ae834abdb07643c11e826bc4
 run_name: puzzled-chimp-455
 run_uuid: ecfafbe9ae834abdb07643c11e826bc4

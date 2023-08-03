@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/9a788765e1364aceb76da43a7ff7acfb/artifacts
+deleted_time: 1690469620868
 end_time: 1688404167394
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 9a788765e1364aceb76da43a7ff7acfb
 run_name: skittish-toad-730
 run_uuid: 9a788765e1364aceb76da43a7ff7acfb

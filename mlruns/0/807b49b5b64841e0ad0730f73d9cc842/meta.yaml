@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/807b49b5b64841e0ad0730f73d9cc842/artifacts
+deleted_time: 1690469620946
 end_time: 1688988644632
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 807b49b5b64841e0ad0730f73d9cc842
 run_name: bedecked-pig-816
 run_uuid: 807b49b5b64841e0ad0730f73d9cc842

@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/0f4f948baf96422184a0e799e0a325a5/artifacts
+deleted_time: 1690469620818
 end_time: 1687970081744
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 0f4f948baf96422184a0e799e0a325a5
 run_name: gentle-sponge-590
 run_uuid: 0f4f948baf96422184a0e799e0a325a5

@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/09949ee8bb1042369450adf64403d5b8/artifacts
+deleted_time: 1690469620944
 end_time: 1688932833461
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 09949ee8bb1042369450adf64403d5b8
 run_name: valuable-duck-631
 run_uuid: 09949ee8bb1042369450adf64403d5b8

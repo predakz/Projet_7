@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/Paul/Documents/Cours%20Data%20Scientist%20OC/Projet%207/Projet_7/mlruns/0/881368f895034f099429061f11a838a1/artifacts
+deleted_time: 1690469620921
 end_time: 1688589588192
 entry_point_name: ''
 experiment_id: '0'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 881368f895034f099429061f11a838a1
 run_name: intrigued-finch-693
 run_uuid: 881368f895034f099429061f11a838a1
